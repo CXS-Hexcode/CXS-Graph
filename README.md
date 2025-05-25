@@ -1,5 +1,6 @@
 # 🧠 OSINT Graph CXS
-
+<p align="center">
+   <img src="image.png" width="100%">
 OSINT Graph CXS est une application interactive de visualisation et d'analyse de graphes pour l'OSINT (Open Source Intelligence). Elle permet de créer, manipuler et analyser des graphes de relations entre des éléments comme des emails, des IPs, des noms, etc., grâce à une interface graphique construite avec **PyQt5** et **NetworkX**.
 
 ## Caractéristiques principales
